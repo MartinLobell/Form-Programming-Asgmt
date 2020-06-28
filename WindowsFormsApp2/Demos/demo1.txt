@@ -1,0 +1,2 @@
+Mmml1, Anton, 37, Male, Has 23 teeth. Tail length is 800.
+Mmml2, Jerry, 37, Male, Has 67 teeth. Antler height is 22.

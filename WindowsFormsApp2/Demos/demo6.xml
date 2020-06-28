@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Recipe>
+    <Name>Antons smörtårta</Name>
+    <Ingredients>
+      <string>Smör, </string>
+      <string>färdigköpt tårta, </string>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Name>Äpplepaj</Name>
+    <Ingredients>
+      <string>Äpple, </string>
+      <string>Smuldeg, </string>
+      <string>Kanel, </string>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Name>Tonfiskröra</Name>
+    <Ingredients>
+      <string>Tonfisk, </string>
+      <string>purjolök, </string>
+      <string>röd paprika, </string>
+      <string>majonäs, </string>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Name>Hamburgare</Name>
+    <Ingredients>
+      <string>Biffar, </string>
+      <string>bröd, </string>
+      <string>ketchup, </string>
+      <string>pickles, </string>
+    </Ingredients>
+  </Recipe>
+</ArrayOfRecipe>

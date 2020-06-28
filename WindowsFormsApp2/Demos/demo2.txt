@@ -1,0 +1,2 @@
+Mmml3, Albin, 32, Male, Has 24 teeth. Amount of whiskers is 88.
+Mmml4, Simon, 42, Male, Has 30 teeth. Amount of whiskers is 2.
